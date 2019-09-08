@@ -1,4 +1,4 @@
-package ch_1;
+package ch1;
 
 public class Q11 {
         public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class Q11 {
 //            }
 //        }
 //    }
-//    public class Test {
+//    public class ch1_Test1 {
 //        public static void main(String[] args) {
 //            int n[]={77,88,99};
 //            System.out.println(Arrays.toString(n));

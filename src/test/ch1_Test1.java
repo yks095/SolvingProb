@@ -1,8 +1,8 @@
-package ch_1;
+package test;
 
 import java.util.Arrays;
 
-public class Test {
+public class ch1_Test1 {
     public static void main(String[] args)  {
         int n[] = {32,54,65,21,10};
 
