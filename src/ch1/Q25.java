@@ -6,7 +6,6 @@ public class Q25 {
     public static void main(String[] args)  {
 
         int[] N = new int[10];
-//        int[] N = new int[9];
         int median = N.length/2;
         Random random = new Random();
 
