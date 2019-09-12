@@ -19,7 +19,7 @@ public class Q26 {
 
         for(int i = 0; i < N.length - 1; i++) {
             if (N[i] == N[i + 1]) {
-                N[i + 1] = - 1;
+                N[i] = -1;
             }
         }
 

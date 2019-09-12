@@ -12,7 +12,7 @@ public class Q22 {
 
         Random random = new Random();
 
-        int[] N = new int[10];
+        int[] N = new int[9];
 
         for(int i = 0; i < N.length; i++)   {
             N[i] = random.nextInt(10);

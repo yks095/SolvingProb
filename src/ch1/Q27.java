@@ -6,8 +6,8 @@ import java.util.Random;
 public class Q27 {
     public static void main(String[] args)  {
 
-        int[] N = new int[10];
-        int[] score = new int[10];
+        int[] N = new int[9];
+        int[] score = new int[9];
         Random random = new Random();
 
         for(int i = 0; i < N.length; i++)   {

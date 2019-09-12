@@ -12,7 +12,7 @@ public class Q20 {
             num[i] = random.nextInt(100);
             avg += num[i];
         }
-        String average = String.format("%.2f", avg/num.length);
+        String average = String.format("%.2f", avg / num.length);
 
         System.out.println(average);
 

@@ -15,7 +15,6 @@ public class Q24 {
 
         for(int i = 0; i < N.length; i++)   {
             N[i] = random.nextInt(10);
-//            N[i] = 3;
             if(N[i] > max)
                 max = N[i];
         }
@@ -25,11 +24,11 @@ public class Q24 {
                 secondMax = N[i];
         }
 
-
-        if(max == secondMax)
-            System.out.println(secondMax);
-        else
+        if(secondMax == 0)
             System.out.println("None");
+        else
+            System.out.println(secondMax);
+
 
     }
 }

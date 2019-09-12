@@ -10,7 +10,7 @@ public class Q23 {
         int maxIdx = 0;
         int secondMax = 0;
 
-        int[] N = new int[10];
+        int[] N = new int[9];
         Random random = new Random();
 
         for(int i = 0; i < N.length; i++)   {

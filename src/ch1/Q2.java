@@ -7,7 +7,7 @@ public class Q2 {
         double time = 2.5;
         boolean exist = true;
         char language = '한';
-        System.out.println(title+","+year+","+time+","+exist+","+language);
+        System.out.println(title + ", " + year + ", " + time + ", " + exist + ", " + language);
 
     }
 }
