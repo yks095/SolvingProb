@@ -27,7 +27,7 @@ public class Q29 {
                     temp = N[N.length - 1];
                     N[i] = N[i - 1];
                 }
-                if (i == 0) {
+                else if (i == 0) {
                     N[i] = temp;
                     break;
                 }
