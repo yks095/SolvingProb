@@ -20,7 +20,11 @@ public class Q10 {
         for(int i = 0; i < Math.abs(s1.length() - s2.length()); i++)  {
             append += "0";
         }
-        s2 = append + s2;
+
+        if(s1.length() > s2.length())
+            s2 = append + s2;
+        else
+            s1 = append + s1;
 
         for(int i = maxLen - 1; i >= 0; i--)    {
             sum = (s1.charAt(i) - '0') + (s2.charAt(i) - '0') + carry;
