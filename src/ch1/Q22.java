@@ -6,7 +6,6 @@ import java.util.Random;
 public class Q22 {
     public static void main(String[] args)  {
 
-
         int max = 0;
         int secondMax = 0;
 

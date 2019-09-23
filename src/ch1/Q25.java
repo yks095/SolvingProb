@@ -7,6 +7,7 @@ public class Q25 {
     public static void main(String[] args)  {
 
         int[] N = new int[8];
+//        int[] N = new int[9];
         int median;
         Random random = new Random();
 

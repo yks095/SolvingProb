@@ -7,25 +7,19 @@ public class Q26 {
     public static void main(String[] args)  {
 
         int[] N = new int[10];
+        int[] count = new int[N.length];
         Random random = new Random();
 
         for(int i = 0; i < N.length; i++)   {
             N[i] = random.nextInt(10);
+            count[N[i]]++;
         }
-
-        Arrays.sort(N);
 
         System.out.println(Arrays.toString(N));
 
-        for(int i = 0; i < N.length - 1; i++) {
-            if (N[i] == N[i + 1]) {
-                N[i] = -1;
-            }
-        }
-
-        for(int i = 0; i < N.length; i++)   {
-            if(N[i] != -1)
-                System.out.print(N[i] + " ");
+        for(int i = 0; i < count.length; i++)   {
+            if(count[i] != 0)
+                System.out.print(i + " ");
         }
     }
 }
