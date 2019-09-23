@@ -2,10 +2,65 @@ package ch3;
 
 public class SimpleList {
     Node head;
+    Node tail;
+    int size = 0;
+
     public void addFirst(int data)  {
         Node newNode = new Node(data);
         newNode.next = head;
         head = newNode;
+        size++;
+    }
+
+    public void removeFirst()   {
+        if(head != null)    {
+            Node p = head;
+            head = head.next;
+            p.next = null;
+        }
+    }
+
+    public int size() { // 연결리스트의 저장된 자료의 전에 갯수
+        return size;
+    }
+
+    public String get(int i) { // i번째 노드의 data값
+        Node p = head;
+        while (i-- > 0) {
+            p = p.next;
+        }
+        return String.valueOf(p.data);
+    }
+
+    // tail 필드 추가하지 않고, head만 사용
+    public void addLast(int i) {
+        Node newNode = new Node(i);
+        Node p = head;
+
+        if(p == null)
+            head = newNode;
+        else    {
+            while (p.next != null)    {
+                p = p.next;
+            }
+            p.next = newNode;
+        }
+    }
+
+    // tail 필드 추가하고, tail 사용하여 구현
+//    public void addLast(int i) {
+//        Node newNode = new Node(i);
+//
+//        if(head == null) {
+//            head = newNode;
+//        }
+//        else {
+//            tail.next = newNode;
+//            tail = tail.next;
+//        }
+//    }
+
+    public void removeLast() {
     }
 
     @Override
@@ -19,6 +74,9 @@ public class SimpleList {
 
         return v;
     }
+
+
+
 }
 
 // Generic
