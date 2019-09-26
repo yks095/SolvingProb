@@ -2,7 +2,7 @@ package ch3;
 
 public class Node {
     int data;
-    Node next;
+    Node next, prev;
 
     public Node(int data)   {
         this.data = data;

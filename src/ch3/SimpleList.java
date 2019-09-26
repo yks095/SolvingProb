@@ -33,34 +33,48 @@ public class SimpleList {
     }
 
     // tail 필드 추가하지 않고, head만 사용
-    public void addLast(int i) {
-        Node newNode = new Node(i);
-        Node p = head;
-
-        if(p == null)
-            head = newNode;
-        else    {
-            while (p.next != null)    {
-                p = p.next;
-            }
-            p.next = newNode;
-        }
-    }
-
-    // tail 필드 추가하고, tail 사용하여 구현
 //    public void addLast(int i) {
 //        Node newNode = new Node(i);
+//        Node p = head;
 //
-//        if(head == null) {
+//        if(p == null)
 //            head = newNode;
-//        }
-//        else {
-//            tail.next = newNode;
-//            tail = tail.next;
+//        else    {
+//            while (p.next != null)    {
+//                p = p.next;
+//            }
+//            p.next = newNode;
 //        }
 //    }
 
+    // tail 필드 추가하고, tail 사용하여 구현
+    public void addLast(int i) {
+        Node newNode = new Node(i);
+        if(head == null) {
+            head = tail = newNode;
+        }
+        else {
+            tail.next = newNode;
+            tail = tail.next;
+            size++;
+        }
+    }
+
     public void removeLast() {
+        Node p = head;
+        Node prev = null;
+
+        if(p == null)    {
+            p.next = null;
+        }
+        else {
+            while(p.next != null)   {
+                prev = p;
+                p = p.next;
+            }
+            prev.next = p.next;
+            p.next = null;
+        }
     }
 
     @Override
