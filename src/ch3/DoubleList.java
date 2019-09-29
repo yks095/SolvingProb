@@ -1,16 +1,17 @@
 package ch3;
 
-public class SimpleList {
+public class DoubleList {
     Node head;
     Node tail;
     int size = 0;
 
     public void addFirst(int data)  {
         Node newNode = new Node(data);
-        newNode.next = head;
+        if(head != null)    {
+            newNode.next = head;
+
+        }
         head = newNode;
-        tail.prev = newNode;
-        size++;
     }
 
     public void removeFirst()   {
@@ -32,21 +33,6 @@ public class SimpleList {
         }
         return String.valueOf(p.data);
     }
-
-    // tail 필드 추가하지 않고, head만 사용
-//    public void addLast(int i) {
-//        Node newNode = new Node(i);
-//        Node p = head;
-//
-//        if(p == null)
-//            head = newNode;
-//        else    {
-//            while (p.next != null)    {
-//                p = p.next;
-//            }
-//            p.next = newNode;
-//        }
-//    }
 
     // tail 필드 추가하고, tail 사용하여 구현
     public void addLast(int i) {
@@ -93,24 +79,3 @@ public class SimpleList {
 
 
 }
-
-// Generic
-//public class SimpleList<T> {
-//    Node<T> head;
-//
-//    public void addFirst(T data) {
-//        Node<T> newNode = new Node<>(data);
-//        newNode.next = head;
-//        head = newNode;
-//    }
-//    @Override
-//    public String toString() {
-//        String v = "";
-//        for (Node<T> p = head; p != null; p = p.next) {
-//            if (v.length() > 0)
-//                v += "->";
-//            v += p.data;
-//        }
-//        return v;
-//    }
-//}
