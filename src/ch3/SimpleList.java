@@ -25,12 +25,12 @@ public class SimpleList {
         return size;
     }
 
-    public String get(int i) { // i번째 노드의 data값
+    public int get(int i) { // i번째 노드의 data값
         Node p = head;
         while (i-- > 0) {
             p = p.next;
         }
-        return String.valueOf(p.data);
+        return p.data;
     }
 
     // tail 필드 추가하지 않고, head만 사용

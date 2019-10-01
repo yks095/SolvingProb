@@ -9,32 +9,31 @@ public class DoubleList {
         Node newNode = new Node(data);
         if(head != null)    {
             newNode.next = head;
-
+            head.prev = newNode;
         }
         head = newNode;
+        if(head.next == null)
+            tail = head;
+        size++;
     }
 
     public void removeFirst()   {
-        if(head != null)    {
-            Node p = head;
-            head = head.next;
-            p.next = null;
-        }
-    }
-
-    public int size() { // 연결리스트의 저장된 자료의 전에 갯수
-        return size;
-    }
-
-    public String get(int i) { // i번째 노드의 data값
         Node p = head;
-        while (i-- > 0) {
-            p = p.next;
+        if(head == null)   {
+            System.out.println("Data doesn't exist!");
+            System.exit(0);
         }
-        return String.valueOf(p.data);
+        else if(head.next == null)   {
+            head = tail = null;
+        }
+        else if(head != null)    {
+            head = p.next;
+            p.next = p.prev = null;
+            head.prev = null;
+        }
+
     }
 
-    // tail 필드 추가하고, tail 사용하여 구현
     public void addLast(int i) {
         Node newNode = new Node(i);
         if(head == null) {
@@ -42,6 +41,7 @@ public class DoubleList {
         }
         else {
             tail.next = newNode;
+            newNode.prev = tail;
             tail = tail.next;
             size++;
         }
@@ -49,31 +49,43 @@ public class DoubleList {
 
     public void removeLast() {
         Node p = head;
-        Node prev = null;
-
-        if(p == null)    {
-            p.next = null;
+        Node p_prev = null;
+        if(head == null && tail == null)    {
+            System.out.println("Data don't exist!!");
+            System.exit(0);
         }
-        else {
+        else if(head.next == null && tail.prev == null)  {
+            head = tail = null;
+        }
+        else if(head != null) {
             while(p.next != null)   {
-                prev = p;
+                p_prev = p;
                 p = p.next;
             }
-            prev.next = p.next;
-            p.next = null;
+            p_prev.next = null;
+            tail = p_prev;
         }
     }
 
     @Override
     public String toString() {
-        String v = "";
+        String v = "head";
+        String v2 = "tail";
+
         for(Node p = head; p != null; p = p.next)   {
             if(v.length() > 0)
                 v += " -> ";
             v += p.data;
         }
 
-        return v;
+
+        for(Node p = tail; p != null; p = p.prev)   {
+            if(v2.length() > 0)
+                v2 += " -> ";
+            v2 += p.data;
+        }
+
+        return v + "\n" + v2;
     }
 
 
