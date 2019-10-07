@@ -17,3 +17,6 @@
 
 ### [test](https://github.com/yks095/SolvingProb/tree/master/src/test)
  - 실습 문제 관련 테스트
+
+### [quiz](https://github.com/yks095/SolvingProb/tree/master/src/quiz)
+ - 이론 관련 퀴즈

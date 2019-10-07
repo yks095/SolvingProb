@@ -9,7 +9,6 @@ public class Q2 {
         for (int i = 1; i <= 100; i++) {
             list.add(i);
         }
-
         System.out.println(list);
     }
 }
