@@ -21,6 +21,7 @@ public class Q4_B {
             System.out.println("  (" + queue.remove(curPos) + " 제거)");
 
         }
+        git commit -m "1014/ch4_solved, ch5_solving..(4/10)"
 
 
         return queue.get(0);
