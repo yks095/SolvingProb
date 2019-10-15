@@ -9,12 +9,11 @@ public class Q19_A {
         System.out.println(Arrays.toString(span));
 
         for(int i = 0; i < price.length; i++)   {
-            for(int j = 0; j <= i; j++) {
+            for(int j = i; j >= 0; j--) {
                 if(price[i] >= price[j])
                     span[i]++;
             }
         }
-
         System.out.println(Arrays.toString(span));
 
     }
