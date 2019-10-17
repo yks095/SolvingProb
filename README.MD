@@ -20,6 +20,9 @@
  
 ### [ch5](https://github.com/yks095/SolvingProb/tree/master/src/ch5)
  - 큐
+ 
+### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/midTerm)
+ - 중간고사
 
 ### [test](https://github.com/yks095/SolvingProb/tree/master/src/test)
  - 실습 문제 관련 테스트
