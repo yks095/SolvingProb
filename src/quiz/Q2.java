@@ -10,12 +10,10 @@ public class Q2 {
         Arrays.sort(v);
 
         long distance;
-        long min = 0;
+        long min = Math.abs(v[0] - v[1]);
         for(int i = 1; i < v.length; i++)   {
-            distance = v[i] - v[i - 1];
-            if(i == 1)
-                min = distance;
-            else if(distance <= min)    {
+            distance = Math.abs(v[i - 1] - v[i]);
+            if(distance <= min)    {
                 min = distance;
             }
         }

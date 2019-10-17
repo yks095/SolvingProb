@@ -13,12 +13,13 @@ public class Q5 {
 
         for (Character c : s.toCharArray()){
             if(c == '(')
-                stack.push('(');
+                stack.push(c);
 
             else if(c == ')') {
                 if(stack.isEmpty())
                     return false;
-                stack.pop();
+                else if(stack.peek() == '(')
+                    stack.pop();
             }
         }
 

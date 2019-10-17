@@ -12,7 +12,7 @@ public class Q10 {
         Stack<Double> stack = new Stack<>();
         for (String token : e.split("\\s+")) {
             double n1, n2;
-            if("+".equals(token))   {
+            if("+".equals(token))   {   // if("+-*/".contains(token))
                 n2 = stack.pop();
                 n1 = stack.pop();
                 stack.push(n1 + n2);
@@ -33,7 +33,7 @@ public class Q10 {
                 stack.push(n1 / n2);
             }
             else
-                stack.push(Double.valueOf(token));
+                stack.push(Double.parseDouble(token));
         }
         return stack.pop();
     }

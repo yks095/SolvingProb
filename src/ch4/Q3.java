@@ -8,8 +8,7 @@ public class Q3 {
         Stack<Character> stack=new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
-            char c=s.charAt(i);
-            stack.push(c);
+            stack.push(s.charAt(i));
         }
 
         while(!stack.isEmpty())
