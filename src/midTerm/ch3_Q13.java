@@ -1,6 +1,6 @@
-package prof_solved.ch3;
+package midTerm;
 
-public class A13_SimpleList {
+public class ch3_Q13 {
     Node head, tail;
     public void addLast(int data) {
         if(tail==null)
