@@ -1,76 +1,79 @@
 package midTerm;
 
 public class SimpleListTest {
-    Node head;
-    int size = 0;
+    Node head, tail;
 
     public void addFirst(int data) {
-        Node newNode=new Node(data);
-        newNode.next=head;
-        head=newNode;
-        size++;
-    }
-    public void removeFirst()	{
-        if(head != null) 	{
-            Node p = head;
-            head = head.next;
-            p.next = null;
+        Node newNode = new Node(data);
+        if(head == null)
+            head = tail = newNode;
+        else  {
+            newNode.next = head;
+            head.prev = newNode;
+            head = newNode;
         }
-        else
-            head = null;
     }
 
-    public int size() {
-        return size;
+    public void addLast(int data) {
+        Node newNode = new Node(data);
+        if(head == null)
+            head = tail = newNode;
+        else  {
+            newNode.prev = tail;
+            tail.next = newNode;
+            tail = newNode;
+        }
     }
-    public int get(int i) {
+
+    public void removeFirst() {
         Node p = head;
 
-        while(i-- != 0)
-            p = p.next;
+        if(head == null)
+            throw new RuntimeException("list is empty!");
 
-        return p.data;
+        else if(head.next == null)
+            head = tail = null;
+
+        else if(head != null)  {
+            head = head.next;
+            p.next = head.prev = null;
+        }
+
     }
 
-    Node tail;
+    public void removeLast() {
+        Node p = tail;
 
-    public void addLast(int i)	{
-        Node newNode = new Node(i);
-        if(tail == null)
-            head = tail = newNode;
-        else{
-            tail.next = newNode;
-            tail = tail.next;
+        if(head == null)
+            throw new RuntimeException("list is empty!");
+
+        else if(head.next == null)
+            head = tail = null;
+
+        else if(head != null)  {
+            tail = tail.prev;
+            p.prev = tail.next = null;
+
+
         }
-    }
-
-    public void removeLast()	{
-        Node prev = null;
-        if(head != null)	{
-            Node p = head;
-
-            while(p.next != null)	{
-                prev = p;
-                p = p.next;
-            }
-            prev.next = null;
-        }
-        else
-            head = null;
     }
 
 
 
 
     @Override
-    public String toString() {
-        String v = "";
-        for(Node p = head; p != null; p = p.next)   {
-            if(v.length() > 0)
-                v += " -> ";
-            v += p.data;
+    public String toString(){
+
+        StringBuilder sb = new StringBuilder("head");
+        for(Node p = head; p != null; p = p.next){
+            sb.append("->").append(p.data);
         }
 
-        return v;
+        sb.append("\n").append("tail");
+        for(Node p = tail; p != null; p = p.prev){
+            sb.append("->").append(p.data);
+        }
+
+        return sb.toString();
     }
 }

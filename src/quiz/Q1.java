@@ -11,12 +11,9 @@ public class Q1 {
         for(int i = 0; i < v.length; i++)   {
             for(int j = i + 1; j < v.length; j++)   {
                 distance = Math.abs(v[j] - v[i]);
-                if(i == j)  {
-                    continue;
-                }
-                else if(distance <= min)    {
+
+                if(distance <= min)
                     min = distance;
-                }
             }
         }
 
