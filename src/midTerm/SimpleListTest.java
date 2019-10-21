@@ -25,38 +25,30 @@ public class SimpleListTest {
         }
     }
 
-    public void removeFirst() {
-        Node p = head;
-
+    public void removeFirst()	{
         if(head == null)
             throw new RuntimeException("list is empty!");
-
         else if(head.next == null)
             head = tail = null;
-
-        else if(head != null)  {
-            head = head.next;
-            p.next = head.prev = null;
+        else{
+            Node p = head;
+            head = p.next;
+            head.prev = p.next = null;
         }
-
     }
 
     public void removeLast() {
-        Node p = tail;
-
-        if(head == null)
+        if (tail == null)
             throw new RuntimeException("list is empty!");
-
-        else if(head.next == null)
+        else if (tail.prev == null)
             head = tail = null;
-
-        else if(head != null)  {
-            tail = tail.prev;
-            p.prev = tail.next = null;
-
-
+        else {
+            Node p = tail;
+            tail = p.prev;
+            tail.next = p.prev = null;
         }
     }
+
 
 
 

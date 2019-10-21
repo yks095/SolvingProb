@@ -26,7 +26,7 @@ public class ch5_Q4_A {
             queue.removeFirst();
         }
 
-        return queue.get(0);
+        return queue.removeFirst();
 
     }
 

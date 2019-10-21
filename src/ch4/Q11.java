@@ -39,7 +39,7 @@ public class Q11 {
                 stack.push(n1 / n2);
             }
             else
-                stack.push(Double.valueOf(token));
+                stack.push(Double.parseDouble(token));
         }
         return stack.pop();
     }

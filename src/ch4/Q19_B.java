@@ -11,7 +11,7 @@ public class Q19_B {
         Stack<Integer> stack = new Stack<>();
 
         for(int i = 0; i < price.length; i++)   {
-            while (!stack.empty() && price[stack.peek()] <= price[i])
+            while (!stack.isEmpty() && price[stack.peek()] <= price[i])
                 stack.pop();
 
             if(stack.empty())

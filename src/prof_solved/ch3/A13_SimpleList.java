@@ -3,11 +3,13 @@ package prof_solved.ch3;
 public class A13_SimpleList {
     Node head, tail;
     public void addLast(int data) {
+        Node newNode = new Node(data);
         if(tail==null)
             head=tail=new Node(data);
         else {
-            tail.next=new Node(data);
+            tail.next=newNode;
             tail=tail.next;
+//            tail.next = newNode = tail;
         }
     }
     @Override
