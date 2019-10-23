@@ -5,9 +5,10 @@ public class SimpleListTest {
 
     public void addFirst(int data) {
         Node newNode = new Node(data);
+
         if(head == null)
             head = tail = newNode;
-        else  {
+        else{
             newNode.next = head;
             head.prev = newNode;
             head = newNode;
@@ -16,39 +17,39 @@ public class SimpleListTest {
 
     public void addLast(int data) {
         Node newNode = new Node(data);
-        if(head == null)
+
+        if(tail == null)
             head = tail = newNode;
-        else  {
-            newNode.prev = tail;
+        else{
             tail.next = newNode;
-            tail = newNode;
+            newNode.prev = tail;
+            tail = tail.next;
         }
     }
 
     public void removeFirst()	{
         if(head == null)
-            throw new RuntimeException("list is empty!");
+            throw new RuntimeException("list is empty");
         else if(head.next == null)
             head = tail = null;
         else{
             Node p = head;
-            head = p.next;
-            head.prev = p.next = null;
+            head = head.next;
+            p.next = head.prev = null;
         }
     }
 
     public void removeLast() {
-        if (tail == null)
-            throw new RuntimeException("list is empty!");
-        else if (tail.prev == null)
+        if(tail == null)
+            throw new RuntimeException("list is empty");
+        else if(tail.prev == null)
             head = tail = null;
-        else {
+        else{
             Node p = tail;
-            tail = p.prev;
+            tail = tail.prev;
             tail.next = p.prev = null;
         }
     }
-
 
 
 

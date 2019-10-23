@@ -6,21 +6,24 @@ import java.util.Random;
 public class Q25 {
     public static void main(String[] args)  {
 
-        int[] N = new int[8];
-//        int[] N = new int[9];
-        int median;
         Random random = new Random();
+        int[] arr = new int[10];
+        double mid = 0.0;
 
-        for(int i = 0; i < N.length; i++)   {
-            N[i] = random.nextInt(10);
+        for(int i = 0; i < arr.length; i++)	{
+            arr[i] = random.nextInt(10);
+        }
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+
+
+        if(arr.length % 2 == 0)	{
+            mid = (double)((arr[arr.length / 2] - 1) + arr[arr.length / 2]) / 2;
+        }
+        else{
+            mid = arr[arr.length / 2];
         }
 
-        Arrays.sort(N);
-        median = N.length / 2;
-
-        if(N.length % 2 == 0)
-            System.out.println((double)(N[median] + N[median - 1]) / 2);
-        else
-            System.out.println(N[median]);
+        System.out.println(mid);
     }
 }
