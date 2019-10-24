@@ -7,36 +7,33 @@ public class ch1_Q10 {
         System.out.println(add(s1, s2));
     }
 
-    private static String add(String s1, String s2)	{
+    private static String add(String s1, String s2) {
+        String result = "";
+        String zero = "";
         int carry = 0;
         int sum = 0;
+        int maxLen = s1.length() >= s2.length() ? s1.length() : s2.length();
 
-        String zero = "";
-        String sumNum = "";
-
-        int maxLen = s1.length() > s2.length() ? s1.length() : s2.length();
-
-        for(int i = 0; i < Math.abs(s1.length() - s2.length()); i++)	{
+        for(int i = 0; i < Math.abs(s1.length() - s2.length()); i++)  {
             zero += "0";
         }
 
-        if(s1.length() >= s2.length())
+        if(s1.length() > s2.length())
             s2 = zero + s2;
-        else
-            s1 = zero + s1;
+        else if(s1.length() < s2.length())
+            s1 = zero + s2;
 
-        for(int i =  maxLen - 1; i >= 0; i--)	{
+        for(int i = maxLen - 1; i >= 0; i--) {
             sum = (s1.charAt(i) - '0') + (s2.charAt(i) - '0') + carry;
 
             carry = sum / 10;
 
-            sum %= 10;
-
-            sumNum = sum + sumNum;
+            result = (sum % 10) + result;
         }
-        if(carry == 1)
-            sumNum = carry + sumNum;
 
-        return sumNum;
+        if(carry == 1)
+            return carry + result;
+        else
+            return result;
     }
 }
