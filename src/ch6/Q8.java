@@ -9,6 +9,8 @@ public class Q8 {
         if(i == 0)
             return n[i];
 
-        return n[i] >= max(n, i - 1) ? n[i] : max(n, i - 1);
+        int max = max(n, i - 1);
+
+        return n[i] >= max ? n[i] : max;
     }
 }
