@@ -6,8 +6,10 @@ public class Q1 {
         System.out.println(fact(n));
     }
     private static double fact(int n) {
-        double v=1;
-        for (int i = 2; i <= n; i++) v*=i;
+        double v = 1;
+        for (int i = 2; i <= n; i++)
+            v *= i;
+
         return v;
     }
 }

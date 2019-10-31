@@ -15,7 +15,6 @@ public class Q13 {
         int temp = n[i];
         n[i] = n[n.length - 1 - i];
         n[n.length - 1 - i] = temp;
-        System.out.println(Arrays.toString(n));
 
         reverse(n, ++i);
 

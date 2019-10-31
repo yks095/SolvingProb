@@ -7,6 +7,9 @@ public class Q12 {
     }
     private static boolean palindrome(String s, int i) {
 
+        if(s.length() <= 1)
+            return true;
+
         if(i == s.length() / 2)
             return true;
 

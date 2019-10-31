@@ -12,7 +12,10 @@ public class Q9 {
         int mid = (low + high) % 2 == 0 ?
                 ((low + high) / 2) - 1 : (low + high) / 2;
 
-        return sum(n, low, mid) >= sum(n, mid + 1, high) ?
-                sum(n, low, mid) : sum(n, mid + 1, high);
+        long left = sum(n, low, mid);
+        long right = sum(n, mid + 1, high);
+
+        return left >= right ?
+                left : right;
     }
 }

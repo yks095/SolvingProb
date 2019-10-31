@@ -13,6 +13,8 @@ public class Q7 {
         if(i == n.length - 1)
             return n[i];
 
-        return n[i] + sum(n, i + 1);
+        int sum = sum(n, i + 1);
+
+        return n[i] + sum;
     }
 }

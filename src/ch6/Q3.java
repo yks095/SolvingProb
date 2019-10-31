@@ -6,8 +6,10 @@ public class Q3 {
         System.out.println(power(m,n));
     }
     private static long power(int m, int n) {
-        long v=1;
-        for (int i = 0; i < n; i++) v*=m;
+        long v = 1;
+        for (int i = 0; i < n; i++)
+            v *= m;
+
         return v;
     }
 }

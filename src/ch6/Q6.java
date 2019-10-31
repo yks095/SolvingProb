@@ -9,6 +9,8 @@ public class Q6 {
         if(i == 0)
             return n[0];
 
-        return n[i] + sum(n, i - 1);
+        int sum = sum(n, i - 1);
+
+        return n[i] + sum;
     }
 }
