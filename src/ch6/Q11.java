@@ -11,7 +11,7 @@ public class Q11 {
     }
     private static int countUpper(char[] v, int i) {
 
-        if( i == v.length)
+        if(i == v.length)
             return cnt;
 
         if(v[i] >= 'A' && v[i] <= 'Z')  {
