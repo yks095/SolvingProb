@@ -20,9 +20,12 @@ public class Q20 {
             int temp = n[i];
             n[i]=n[j];
             n[j]=temp; // swap
-            
+
             perm(n, i+1);
-            temp=n[i]; n[i]=n[j]; n[j]=temp; // swap
+
+            temp=n[i];
+            n[i]=n[j];
+            n[j]=temp; // swap
         }
     }
 }

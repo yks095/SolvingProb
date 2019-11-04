@@ -30,5 +30,6 @@ public class Q15 {
         System.out.println(count);
     }
     private static void dfs(char[][] ground, int R, int C, int i, int j) {
+        // graph 공부 후
     }
 }
