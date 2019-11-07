@@ -12,6 +12,8 @@
 
 #### [ch6](https://github.com/yks095/SolvingProb/tree/master/src/ch6) 재귀
  
+#### [ch7](https://github.com/yks095/SolvingProb/tree/master/src/ch7) 정렬
+ 
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/midTerm) 중간고사
  
 #### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/prof_solved) 교수님 풀이(ch1 ~ ch5)
