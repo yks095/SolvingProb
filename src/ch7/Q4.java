@@ -14,28 +14,20 @@ public class Q4 {
         int[] v = new int[n.length + m.length];
         int i = 0, j = 0, k = 0;
 
-        while(i != n.length - 1 && j != m.length - 1)   {
-            if(n[i] > m[j]) {
-                v[k++] = m[j++];
-                continue;
-            }
-            else if(n[i] < m[j])    {
-                v[k++] = n[i++];
-                continue;
-            }
-
-            System.out.println(Arrays.toString(v));
-
+        while(i < n.length && j < m.length)   {
+            v[k++] = (n[i] < m[j]) ? n[i++] : m[j++];
+//            if(n[i] > m[j])
+//                v[k++] = m[j++];
+//            else
+//                v[k++] = n[i++];
         }
 
-        if(i != n.length - 1)   {
-            while(i != n.length - 1)
-                v[k++] = n[i++];
-        }
-        else if(j != m.length - 1)  {
-            while(j != m.length - 1)
-                v[k++] = n[j++];
-        }
+        while(i < n.length)
+            v[k++] = n[i++];
+        while(j < m.length)
+            v[k++] = m[j++];
+
+        System.out.println(Arrays.toString(v));
 
 
         return v;
