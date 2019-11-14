@@ -1,24 +1,26 @@
 ## 19년 2학기 문제해결기법(재)
 
-#### [ch1](https://github.com/yks095/SolvingProb/tree/master/src/ch1) 자바 기초 / 큰 정수 / 복잡도 / 배열 / 정렬 / k-th 최대값
+#### [chapter1](https://github.com/yks095/SolvingProb/tree/master/src/ch1) 자바 기초 / 큰 정수 / 복잡도 / 배열 / 정렬 / k-th 최대값
 
-#### [ch2](https://github.com/yks095/SolvingProb/tree/master/src/ch2) 배열 & 연결리스트 임의접근 / 첫위치 삽입 & 시간복잡도 비교
+#### [chapter2](https://github.com/yks095/SolvingProb/tree/master/src/ch2) 배열 & 연결리스트 임의접근 / 첫위치 삽입 & 시간복잡도 비교
 
-#### [ch3](https://github.com/yks095/SolvingProb/tree/master/src/ch3) 연결리스트
+#### [chapter3](https://github.com/yks095/SolvingProb/tree/master/src/ch3) 연결리스트
  
-#### [ch4](https://github.com/yks095/SolvingProb/tree/master/src/ch4) 스택
+#### [chapter4](https://github.com/yks095/SolvingProb/tree/master/src/ch4) 스택
  
-#### [ch5](https://github.com/yks095/SolvingProb/tree/master/src/ch5) 큐
+#### [chapter5](https://github.com/yks095/SolvingProb/tree/master/src/ch5) 큐
 
-#### [ch6](https://github.com/yks095/SolvingProb/tree/master/src/ch6) 재귀
+#### [chapter6](https://github.com/yks095/SolvingProb/tree/master/src/ch6) 재귀
  
-#### [ch7](https://github.com/yks095/SolvingProb/tree/master/src/ch7) 정렬
+#### [chapter7](https://github.com/yks095/SolvingProb/tree/master/src/ch7) 정렬
  
-#### [ch8](https://github.com/yks095/SolvingProb/tree/master/src/ch8) 이진탐색
+#### [chapter8](https://github.com/yks095/SolvingProb/tree/master/src/ch8) 이진탐색
+
+#### [chapter9](https://github.com/yks095/SolvingProb/tree/master/src/ch9) 이진탐색트리
  
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/midTerm) 중간고사
  
-#### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/prof_solved) 교수님 풀이(ch1 ~ ch5)
+#### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/prof_solved) 교수님 풀이(chapter.ch1 ~ chapter.ch5)
 
 #### [test](https://github.com/yks095/SolvingProb/tree/master/src/test) 실습 문제 관련 테스트
 

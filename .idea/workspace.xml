@@ -1,19 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/ch3/Q16.java" line="19" mnemonic="9" />
-    <bookmark url="file://$PROJECT_DIR$/src/ch5/Q4_B.java" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/src/chapter/ch3/Q16.java" line="19" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/chapter/ch5/Q4_B.java" line="24" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="026216c6-40cf-43a1-a978-567a19e1426f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7/Q16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7/Q17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Q1_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Q3_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Q3_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter/ch9/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter/ch9/Q3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch1/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch2/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch2/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/DoubleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/DoubleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3/SimpleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch3/SimpleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q19_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q19_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q19_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q19_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/SimpleStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/SimpleStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/SimpleStack_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/SimpleStack_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4/SimpleStack_Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch4/SimpleStack_Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch5/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch5/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch5/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5/Q4_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch5/Q4_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5/Q4_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch5/Q4_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q14_NR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q14_NR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q14_R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q14_R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch6/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q1_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q1_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q1_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q1_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q2_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q2_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q3_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q3_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7/Q7_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch7/Q7_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8/Q1_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q1_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8/Q1_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q1_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8/Q3_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q3_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8/Q3_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q3_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4_Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/ch3/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/ch3/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/ch3/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/ch3/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/ch4/A11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/ch4/A11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/ch4/A16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/ch4/A16.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,28 +167,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch8/Q3_A.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch8/Q3_B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch8/Q2.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -85,9 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/midTerm/ch1_Q26.java" />
-        <option value="$PROJECT_DIR$/src/midTerm/ch4_Q9.java" />
-        <option value="$PROJECT_DIR$/src/midTerm/Test.java" />
         <option value="$PROJECT_DIR$/src/ch6/Q8.java" />
         <option value="$PROJECT_DIR$/src/ch6/Q12.java" />
         <option value="$PROJECT_DIR$/src/ch6/Q14.java" />
@@ -133,9 +267,12 @@
         <option value="$PROJECT_DIR$/src/ch8/Q1_A.java" />
         <option value="$PROJECT_DIR$/src/ch8/Q1_B.java" />
         <option value="$PROJECT_DIR$/src/ch8/Q2.java" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/src/ch8/Q3_A.java" />
         <option value="$PROJECT_DIR$/src/ch8/Q3_B.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch8/Q3_A.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch9/Q2.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch9/Q3.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
       </list>
     </option>
   </component>
@@ -168,7 +305,7 @@
               <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch8" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573710082339" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573710525704" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -216,12 +353,12 @@
   </component>
   <component name="RunManager" selected="Application.Q3_B">
     <configuration name="Q14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.Q14" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch7.Q14" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="chapter.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +367,12 @@
       </method>
     </configuration>
     <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7.Q15" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch7.Q15" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7.*" />
+          <option name="PATTERN" value="chapter.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +381,12 @@
       </method>
     </configuration>
     <configuration name="Q1_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch8.Q1_A" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch8.Q1_A" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch8.*" />
+          <option name="PATTERN" value="chapter.ch8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +395,12 @@
       </method>
     </configuration>
     <configuration name="Q1_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch8.Q1_B" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch8.Q1_B" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch8.*" />
+          <option name="PATTERN" value="chapter.ch8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +409,12 @@
       </method>
     </configuration>
     <configuration name="Q3_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch8.Q3_B" />
+      <option name="MAIN_CLASS_NAME" value="chapter.ch8.Q3_B" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch8.*" />
+          <option name="PATTERN" value="chapter.ch8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,7 +546,7 @@
       <workItem from="1573434363875" duration="5330000" />
       <workItem from="1573444096436" duration="30000" />
       <workItem from="1573650519615" duration="668000" />
-      <workItem from="1573708088952" duration="1956000" />
+      <workItem from="1573708088952" duration="2403000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -420,7 +557,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220434000" />
+    <option name="totallyTimeSpent" value="220881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="641" y="0" width="900" height="831" extended-state="0" />
@@ -434,8 +571,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32853025" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" visible="true" weight="0.3208633" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" weight="0.3208633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,114 +600,91 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/ch4/A16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/ch5/A4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q2.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q3.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q4.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q6.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q7.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q19.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q11.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q10.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q8.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q9.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q12.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q13.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q14_NR.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q14_NR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -581,14 +695,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q14_R.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q14_R.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q17.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -606,21 +720,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q18.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q15.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q5.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -631,7 +745,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q16.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
@@ -643,21 +757,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch7.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q20.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q1_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q1_A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6/Q21.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q21.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
@@ -668,42 +782,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q1.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q2.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q2_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q2_A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q1_B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q1_B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q3_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q3_A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q3.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
@@ -717,128 +831,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q6.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q7.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="15" column="5" lean-forward="true" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q13.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q5.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q4.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q7_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q7_A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q14.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4/Q17.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch4/Q17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q15.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q16.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7/Q17.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8/Q1_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q1_A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="21" lean-forward="true" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8/Q1_B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q3_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q1_B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="178">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8/Q3_A.java">
+    <entry file="file://$PROJECT_DIR$/src/ch9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8/Q2.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q3_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8/Q3_B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

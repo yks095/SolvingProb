@@ -1,6 +1,6 @@
 package prof_solved.ch3;
 
-import ch3.SimpleList;
+import chapter.ch3.SimpleList;
 
 public class Q12 {
     public static void main(String[] args) {

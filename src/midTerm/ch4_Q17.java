@@ -1,7 +1,5 @@
 package midTerm;
 
-import ch4.SimpleStack;
-
 public class ch4_Q17 {
     public static void main(String[] args) {
         ch4_Q17_SimpleStack stack=new ch4_Q17_SimpleStack();

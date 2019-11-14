@@ -1,4 +1,4 @@
-//package prof_solved.ch4;
+//package prof_solved.chapter.ch4;
 //
 //        String	s="";
 //        for (Character c : e.toCharArray()) {

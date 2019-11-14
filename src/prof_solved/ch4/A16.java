@@ -1,4 +1,4 @@
-//package prof_solved.ch4;
+//package prof_solved.chapter.ch4;
 //
 //    private static int[] arrayCopy(int[] n, int newSize){
 //        int t[]=new int[newSize];
