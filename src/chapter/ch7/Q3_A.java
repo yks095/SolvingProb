@@ -18,7 +18,6 @@ public class Q3_A {
                 v[j] = v[j - 1];
             }
             v[j] = temp;
-            System.out.println("i = " + i + ", 배열 내용 = " + Arrays.toString(v));
         }
     }
 }

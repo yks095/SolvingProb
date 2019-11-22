@@ -21,8 +21,6 @@ public class Q5 {
         while(j <= right2)
             w[k++] = v[j++];
 
-        System.out.println(Arrays.toString(w));
-
         for(i = left1, k = 0; k < w.length;)
             v[i++] = w[k++];
     }

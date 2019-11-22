@@ -25,13 +25,9 @@ public class Q15 {
             cnt[v[i] - min]++;
         }
 
-        System.out.println(Arrays.toString(cnt));
-
         for(int i = 0, k = 0; i < cnt.length; i++) {
             while(cnt[i]-- > 0)
                 v[k++] = i + min;
         }
-
-
     }
 }

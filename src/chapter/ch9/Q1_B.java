@@ -26,6 +26,7 @@ class BinarySearchTree_B {
 //    public void add(int key) {
 //        root=add(root, key);
 //    }
+
     private BinaryTree add(BinaryTree tree, int key) {
         if(tree==null) return new BinaryTree(key);
         if(tree.key<key) tree.right=add(tree.right, key);
@@ -35,7 +36,7 @@ class BinarySearchTree_B {
     }
 
     public void add(int key)    {
-
+   
     }
 
 

@@ -11,7 +11,7 @@ public class Q1_A {
 
     private static void bubbleSort(int[] v) {
         for (int i = 0; i < v.length; i++) {
-            for (int j = 1; j < v.length - i; j++) {
+            for (int j = v.length - 1; j > i; j--) {
                 if(v[j - 1] > v[j]) { // 인접 자료 간 순서 맞지 않으면 교환
                     int temp = v[j];
                     v[j] = v[j - 1];

@@ -27,9 +27,6 @@ public class Q4 {
         while(j < m.length)
             v[k++] = m[j++];
 
-        System.out.println(Arrays.toString(v));
-
-
         return v;
     }
 }
