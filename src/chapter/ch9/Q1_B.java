@@ -22,21 +22,35 @@ class BinarySearchTree_B {
     }
     BinaryTree root;
 
-
-//    public void add(int key) {
-//        root=add(root, key);
-//    }
-
-    private BinaryTree add(BinaryTree tree, int key) {
-        if(tree==null) return new BinaryTree(key);
-        if(tree.key<key) tree.right=add(tree.right, key);
-        else if(tree.key>key) tree.left=add(tree.left, key);
-        else ; // value 삽입 시 else tree.value=value;
-        return tree;
-    }
-
     public void add(int key)    {
-   
+        BinaryTree newNode = new BinaryTree(key);
+        if(root == null) {
+            root = newNode;
+            return;
+        }
+        else    {
+            BinaryTree tree = root;
+            BinaryTree parent = null;
+
+            while(true) {
+                parent = tree;
+
+                if(tree.key < key) {
+                    tree = tree.right;
+                    if(tree == null)    {
+                        parent.right = newNode;
+                        return;
+                    }
+                }
+                else if(tree.key > key) {
+                    tree = tree.left;
+                    if(tree == null)    {
+                        parent.left = newNode;
+                        return;
+                    }
+                }
+            }
+        }
     }
 
 
