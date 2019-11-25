@@ -18,6 +18,10 @@
 
 #### [chapter9](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch9) 이진탐색트리
  
+#### [chapter10](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch10) 이진힙
+
+#### [chapter11](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch11) 그래프
+ 
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/chapter/midTerm) 중간고사
  
 #### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/chapter/prof_solved) 교수님 풀이(chapter.ch1 ~ chapter.ch5)
