@@ -21,6 +21,8 @@
 #### [chapter10](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch10) 이진힙
 
 #### [chapter11](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch11) 그래프
+
+#### [chapter12](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch12) 서로소 집합
  
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/chapter/midTerm) 중간고사
  

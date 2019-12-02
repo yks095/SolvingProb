@@ -6,12 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="026216c6-40cf-43a1-a978-567a19e1426f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter/ch11/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter/ch11/Q6_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter/ch11/Q6_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter/ch12/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/chapter/ch8/Q3_B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolvingProb/chapter/ch8/Q3_B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter/ch8/Q3_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch8/Q3_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/chapter/ch6/Q15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolvingProb/chapter/ch6/Q15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/ch6/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/ch6/Q15.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,57 +29,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q6_A.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch12/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="308">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1079#1080#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q6_B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1512#1513#0" expanded="true" />
-                <element signature="e#1557#1558#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="30" column="9" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -111,10 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ch7/Q3_A.java" />
-        <option value="$PROJECT_DIR$/src/ch7/Q4.java" />
-        <option value="$PROJECT_DIR$/src/ch7/Q5.java" />
-        <option value="$PROJECT_DIR$/src/ch7/Q6.java" />
         <option value="$PROJECT_DIR$/src/ch7/Q7.java" />
         <option value="$PROJECT_DIR$/src/ch7/Q7_A.java" />
         <option value="$PROJECT_DIR$/src/ch7/Q13.java" />
@@ -153,22 +106,26 @@
         <option value="$PROJECT_DIR$/src/chapter/ch8/Q3_A.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch7/Q1_A.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch9/Q1_B.java" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q1.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q2.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q3.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q4.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch8/Q3_B.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q5.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q6_A.java" />
         <option value="$PROJECT_DIR$/src/chapter/ch11/Q6_B.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch11/Q6_A.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch11/Q7_A.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch6/Q15.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/src/chapter/ch12/UF.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch12/Q1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="810" />
-    <option name="width" value="1119" />
-    <option name="height" value="1039" />
+    <option name="x" value="806" />
+    <option name="width" value="1123" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,21 +158,19 @@
               <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter" type="462c0819:PsiDirectoryNode" />
-              <item name="ch11" type="462c0819:PsiDirectoryNode" />
+              <item name="ch12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574919962141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575254798598" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -248,14 +205,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q6_A">
-    <configuration name="Q3_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch8.Q3_B" />
+  <component name="RunManager" selected="Application.Q1">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter.ch12.Q1" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch8.*" />
+          <option name="PATTERN" value="chapter.ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,27 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch11.Q5" />
+    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter.ch6.Q15" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch10.Q5_B" />
-      <module name="SolvingProb" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter.ch10.*" />
+          <option name="PATTERN" value="chapter.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,6 +250,20 @@
     </configuration>
     <configuration name="Q6_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter.ch11.Q6_B" />
+      <module name="SolvingProb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter.ch11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q7_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter.ch11.Q7_A" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -343,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q15" />
+        <item itemvalue="Application.Q7_A" />
         <item itemvalue="Application.Q6_A" />
         <item itemvalue="Application.Q6_B" />
-        <item itemvalue="Application.Q5 (1)" />
-        <item itemvalue="Application.Q3_B" />
-        <item itemvalue="Application.Q5_B" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +416,9 @@
       <workItem from="1574689054536" duration="2429000" />
       <workItem from="1574744783163" duration="860000" />
       <workItem from="1574755542759" duration="1094000" />
-      <workItem from="1574917584690" duration="2269000" />
+      <workItem from="1574917584690" duration="2516000" />
+      <workItem from="1574935238069" duration="34000" />
+      <workItem from="1575248985354" duration="5231000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -470,13 +429,13 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253688000" />
+    <option name="totallyTimeSpent" value="259200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="0" width="895" height="831" extended-state="0" />
+    <frame x="645" y="0" width="898" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23113772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18735084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -485,7 +444,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49941656" visible="true" weight="0.2877698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" visible="true" weight="0.3443804" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,28 +472,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch4/Q17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -640,16 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -828,24 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="30" column="9" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="494">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -855,20 +768,77 @@
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
-            <element signature="e#1557#1558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="9" selection-start-line="23" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q7_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter/ch11/Q6_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="201">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+            <element signature="e#1608#1609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch12/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch12/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
           </folding>
         </state>
       </provider>

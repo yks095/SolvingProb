@@ -30,6 +30,15 @@ public class Q15 {
         System.out.println(count);
     }
     private static void dfs(char[][] ground, int R, int C, int i, int j) {
-        // graph 공부 후
+        ground[i][j] = '0';
+
+        for(int dx = -1; dx <= 1; dx++) {
+            for(int dy = -1; dy <= 1; dy++) {
+                int r = i + dx, c = j + dy;
+                if(r >= 0 && r < R && c >= 0 && c < C && ground[r][c] == '1')
+                    dfs(ground, R, C, r, c);
+            }
+        }
+
     }
 }
