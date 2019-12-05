@@ -24,6 +24,8 @@
 
 #### [chapter12](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch12) 서로소 집합
  
+#### [chapter13](https://github.com/yks095/SolvingProb/tree/master/src/chapter/ch13) 해싱
+ 
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/chapter/midTerm) 중간고사
  
 #### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/chapter/prof_solved) 교수님 풀이(chapter.ch1 ~ chapter.ch5)
