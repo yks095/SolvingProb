@@ -1,5 +1,6 @@
 package chapter.ch13;
 
+import java.util.HashSet;
 import java.util.Random;
 import java.util.TreeSet;
 
@@ -18,6 +19,13 @@ public class Q5 {
         SimpleChainHashTable st=new SimpleChainHashTable(n);
         for (int i = 0; i < n; i++) st.put(keys[i]);
         System.out.println("Hash "+(System.currentTimeMillis()-start)/1000.+" sec.");
+
+        start=System.currentTimeMillis();
+        HashSet<String> ht = new HashSet<String>();
+        for(int i = 0; i < n; i++)  {
+            ht.add(keys[i]);
+        }
+        System.out.println("HashSet "+(System.currentTimeMillis()-start)/1000.+" sec.");
     }
     private static String genKeys() {
         Random random=new Random();

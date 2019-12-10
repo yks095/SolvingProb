@@ -28,7 +28,7 @@
  
 #### [midTerm](https://github.com/yks095/SolvingProb/tree/master/src/chapter/midTerm) 중간고사
  
-#### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/chapter/prof_solved) 교수님 풀이(chapter.ch1 ~ chapter.ch5)
+#### [prof_solved](https://github.com/yks095/SolvingProb/tree/master/src/chapter/prof_solved) 교수님 풀이
 
 #### [test](https://github.com/yks095/SolvingProb/tree/master/src/chapter/test) 실습 문제 관련 테스트
 
