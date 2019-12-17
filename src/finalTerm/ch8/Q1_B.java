@@ -1,8 +1,8 @@
-package finalTerm;
+package finalTerm.ch8;
 
 import java.util.Random;
 
-public class Test {
+public class Q1_B {
     public static void main(String[] args) {
         int v[]=new int[1000000];
         Random random=new Random();
@@ -28,8 +28,8 @@ public class Test {
         if(i < v.length - 1)
             return i;
 
-         if(key == lastVal)
-             return v.length - 1;
+        if(key == lastVal)      // key가 마지막에 있는 경우 검사
+            return v.length - 1;
 
         return -1;
 

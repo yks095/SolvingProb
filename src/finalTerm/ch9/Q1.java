@@ -1,4 +1,4 @@
-package prof_solved.final_solved.ch9;
+package finalTerm.ch9;
 
 import java.util.LinkedList;
 
@@ -40,11 +40,11 @@ class BinarySearchTree {
     private BinaryTree searchRecur(BinaryTree node, int key) {
         if(node == null) return null;
         if(node.key == key) return node;
-        if(node.key < key) return searchRecur(node.right, key);
+        if(node.key < key) return searchRecur(node.right, key);     // 재귀할때 return 쓰기
         else return searchRecur(node.left, key);
     }
 
-    public static String inorder(BinaryTree tree) {
+    public static String inorder(BinaryTree tree) {                 // 외우기
         if(tree==null) return "";
         return inorder(tree.left)+" "+tree.key+" "+inorder(tree.right);
     }
@@ -66,3 +66,4 @@ class BinarySearchTree {
         return list;
     }
 }
+

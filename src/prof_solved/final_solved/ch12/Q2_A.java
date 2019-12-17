@@ -42,8 +42,6 @@ class UF {
         }
     }
     public int find(int i) { // path compression
-//        if(i!=parent[i]) parent[i]=find(parent[i]);
-//        return parent[i];
         int root = i;
         while(root != parent[root]) {
             root = parent[root];
@@ -55,6 +53,8 @@ class UF {
         }
         return root;
     }
+
+
     @Override
     public String toString() {
         return Arrays.toString(parent);

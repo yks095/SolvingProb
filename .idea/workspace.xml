@@ -2,89 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026216c6-40cf-43a1-a978-567a19e1426f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/finalTerm/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch6/Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch10/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch6/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch6/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch6/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch7/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch7/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch8/Q1_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch8/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalTerm/ch9/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/SimpleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/SimpleListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch1_Q6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Q12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Q13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Q16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Q5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Q8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch3_Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q17_SimpleStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q19_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch4_Q9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch5_Q4_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/midTerm/ch5_Q4_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A26_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A26_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A28_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A28_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch1/A28_C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch2/A10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch3/A12_SimpleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch3/A13_SimpleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch3/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch3/Q12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch3/Q13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch4/A6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/ch5/A4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/quiz/A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/quiz/A2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/SimpleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/SimpleList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/SimpleListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/SimpleListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch1_Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch1/ch1_Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch3_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch3/ch3_Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q17_SimpleStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q17_SimpleStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q19_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q19_B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch4_Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch4/ch4_Q9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch5_Q4_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch5/ch5_Q4_A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm/ch5_Q4_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm/ch5/ch5_Q4_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/finalTerm/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolvingProb/finalTerm/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/finalTerm/ch6/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/final_solved/ch6/Q6_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolvingProb/prof_solved/final_solved/ch6/Q6_A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finalTerm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/finalTerm/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finalTerm/ch6/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/finalTerm/ch6/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,42 +58,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java">
+        <entry file="file://$PROJECT_DIR$/src/finalTerm/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding>
-                <element signature="e#1500#1501#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-312">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch10/Q5.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q1_A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-              <folding>
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="320">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q1_C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="68" lean-forward="true" selection-start-line="4" selection-end-line="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java">
+        <entry file="file://$PROJECT_DIR$/src/finalTerm/ch9/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+            <state relative-caret-position="211">
+              <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
               <folding>
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#1173#1174#0" expanded="true" />
-                <element signature="e#1190#1191#0" expanded="true" />
-                <element signature="e#1397#1398#0" expanded="true" />
-                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
+                <element signature="e#1700#1701#0" expanded="true" />
+                <element signature="e#1746#1747#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,10 +125,13 @@
       <find>second</find>
       <find>tail</find>
       <find>arr</find>
+      <find>prof_solved.final_solved.ch9.</find>
+      <find>BinarySearchTree.BinaryTree</find>
     </findStrings>
     <replaceStrings>
       <replace>secondMax</replace>
       <replace>w</replace>
+      <replace>BinaryTree</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -172,38 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q3_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q4.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q5.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q14.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q15.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch8/Q3_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch7/Q1_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch9/Q1_B.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q1.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q2.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q3.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q4.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch8/Q3_B.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q5.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q6_B.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q6_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch11/Q7_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch6/Q15.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch12/UF.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch12/Q1.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch12/Q3_A.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q4_Map.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q4_Set.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q1.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q2.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q3.java" />
-        <option value="$PROJECT_DIR$/src/chapter/ch13/Q5.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/ch6_6.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/ch6_6_A.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/ch6_8.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/ch6_Q8.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/ch6_Q9.java" />
         <option value="$PROJECT_DIR$/src/finalTerm/ch6_Q10.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/ch6_Q10.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q11.java" />
@@ -213,23 +149,55 @@
         <option value="$PROJECT_DIR$/src/midTerm/ch3/SimpleList.java" />
         <option value="$PROJECT_DIR$/src/midTerm/ch3/ch3_Q13.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q12.java" />
-        <option value="$PROJECT_DIR$/src/finalTerm/Test.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_A.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_B.java" />
-        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java" />
-        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java" />
-        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java" />
-        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch10/Q5.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch7/Q4.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch7/Q5.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch7/Q3_A.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q7.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q14.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q15.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q2.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q3.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q4.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q5.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q13.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q14.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q15.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q1.java" />
         <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q3.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q4.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q2.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q6.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_A.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch6/Q8.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch6/Q9.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch6/Q12.java" />
+        <option value="$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q18.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch6/Q18.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch7/Q3.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch7/Q14.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch7/Q15.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch8/Q1_B.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/Test.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch8/Q2.java" />
+        <option value="$PROJECT_DIR$/src/chapter/ch9/Q1_A.java" />
+        <option value="$PROJECT_DIR$/src/finalTerm/ch9/Q1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="816" />
-    <option name="width" value="1113" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="810" />
+    <option name="width" value="1115" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,8 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,6 +229,50 @@
               <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1_A.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1_B.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1_C.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="finalTerm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="finalTerm" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="prof_solved" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,6 +281,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="prof_solved" type="462c0819:PsiDirectoryNode" />
               <item name="final_solved" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="prof_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="final_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="ch8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
@@ -278,17 +298,26 @@
               <item name="final_solved" type="462c0819:PsiDirectoryNode" />
               <item name="ch9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SolvingProb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvingProb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="prof_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="final_solved" type="462c0819:PsiDirectoryNode" />
+              <item name="ch9" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576129787703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576563467364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Study/Twitter-Clone-BackEnd/twitterclone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -324,13 +353,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Test">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch12.Q1" />
+    <configuration name="Q14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalTerm.ch7.Q14" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch12.*" />
+          <option name="PATTERN" value="finalTerm.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,13 +367,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch13.Q4_Map" />
+    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalTerm.ch7.Q15" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch13.*" />
+          <option name="PATTERN" value="finalTerm.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,13 +381,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch13.Q4_Set" />
+    <configuration name="Q18 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalTerm.ch6.Q18" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch13.*" />
+          <option name="PATTERN" value="finalTerm.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,13 +395,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter.ch13.Q5" />
+    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prof_solved.final_solved.ch6.Q18" />
       <module name="SolvingProb" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter.ch13.*" />
+          <option name="PATTERN" value="prof_solved.final_solved.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,10 +448,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Q5" />
-        <item itemvalue="Application.Q4_Map" />
-        <item itemvalue="Application.Q4_Set" />
-        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q15" />
+        <item itemvalue="Application.Q14" />
+        <item itemvalue="Application.Q18" />
+        <item itemvalue="Application.Q18 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +573,15 @@
       <workItem from="1575975962549" duration="618000" />
       <workItem from="1576118957670" duration="409000" />
       <workItem from="1576119419075" duration="4526000" />
-      <workItem from="1576127191089" duration="2586000" />
+      <workItem from="1576127191089" duration="2668000" />
+      <workItem from="1576142654219" duration="13000" />
+      <workItem from="1576374030366" duration="2928000" />
+      <workItem from="1576392395919" duration="2587000" />
+      <workItem from="1576407059599" duration="601000" />
+      <workItem from="1576456406451" duration="10905000" />
+      <workItem from="1576493133358" duration="6042000" />
+      <workItem from="1576543135073" duration="8000" />
+      <workItem from="1576543216867" duration="14286000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -555,13 +592,13 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272920000" />
+    <option name="totallyTimeSpent" value="310372000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="653" y="0" width="890" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21927711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2409396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -570,7 +607,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" weight="0.32621083" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" visible="true" weight="0.2877493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +617,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32621083" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005834" side_tool="true" weight="0.2910663" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32564843" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32478634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,64 +631,179 @@
       <window_info anchor="right" id="Mongo Explorer" order="10" />
       <window_info anchor="right" id="Jms Messenger" order="11" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22819594" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32805756" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" weight="0.32708934" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32708934" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005834" side_tool="true" weight="0.2910663" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32564843" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32941177" />
-      <window_info anchor="right" id="Mongo Explorer" order="10" />
-      <window_info anchor="right" id="Jms Messenger" order="11" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved.java" />
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/mid_solved/ch6/Q6_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q1_C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7.java" />
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch7/Q3_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch8/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch10/Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch10/Q5_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch10/Q5_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch11/Q6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="904" column="18" selection-start-line="904" selection-start-column="18" selection-end-line="904" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#262#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="98" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="9" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -662,213 +814,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q11.java">
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch6/Q8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        <state relative-caret-position="190">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="570">
-            <caret line="30" column="92" selection-start-line="30" selection-start-column="92" selection-end-line="30" selection-end-column="92" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch1/ch1_Q28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Q8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Q12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Q16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/SimpleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/SimpleListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch3/ch3_Q13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q17_SimpleStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch4/ch4_Q19_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch5/ch5_Q4_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/midTerm/ch5/ch5_Q4_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q9.java">
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q6_B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -882,125 +835,195 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch6/Q9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q10.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch6/Q11.java">
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/ch6/Q12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q12.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch6/Q12.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch6/Q18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch6/Q18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch7/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch7/Q14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch7/Q15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch7/Q15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch8/Q1_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch8/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="23" lean-forward="true" selection-start-line="4" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch8/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/finalTerm/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="-312">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_A.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q1_B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="-242">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_B.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q1_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="320">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="26" />
-          <folding>
-            <element signature="e#230#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_D.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter/ch9/Q1_C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch13/Q6_E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch12/Q2_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-          <folding>
-            <element signature="e#1500#1501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch10/Q5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-          </folding>
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prof_solved/final_solved/ch9/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        <state relative-caret-position="334">
+          <caret line="68" lean-forward="true" selection-start-line="4" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalTerm/ch9/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
           <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
           </folding>
         </state>
       </provider>

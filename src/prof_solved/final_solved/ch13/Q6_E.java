@@ -10,12 +10,12 @@ public class Q6_E {
             count[n[i]]++;
         }
 
-        int maxCount = 0, maxValue = n[0];
+        int     maxCount=count[0], maxValue=0;
 
-        for(int i = 0; i < count.length; i++)   {
-            if(count[i] > maxCount) {
-                maxCount = count[i];
-                maxValue = i;
+        for (int i = 1; i < count.length; i++) {
+            if(count[i]>maxCount){
+                maxCount=count[i];
+                maxValue=i;
             }
         }
     }
