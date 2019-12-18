@@ -1,4 +1,4 @@
-package prof_solved.final_solved.ch12;
+package finalTerm.ch12;
 
 import java.util.Arrays;
 
@@ -47,9 +47,9 @@ class UF {
             root = parent[root];
         }
         while(i!=parent[i]){
-            int     k=parent[i];
+            int     temp=parent[i];
             parent[i]=root;
-            i=k;
+            i=temp;
         }
         return root;
     }

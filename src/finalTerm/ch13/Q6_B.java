@@ -1,4 +1,4 @@
-package prof_solved.final_solved.ch13;
+package finalTerm.ch13;
 
 import java.util.Arrays;
 
@@ -13,7 +13,7 @@ public class Q6_B {                     // O(NlogN)
             if(n[i - 1] != n[i])    {   //n[i - 1]값의 연속의 마지막인 지점
                 if(count > maxCount)    {
                     maxCount = count;
-                    maxValue = n[i - 1];
+                    maxValue = n[i - 1];    // n-1 이 최댓값인거 기억!
                 }
                 count = 0;
             }
