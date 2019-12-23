@@ -8,8 +8,13 @@ public class Q10 {
         System.out.println(v);
     }
     private static void toUpper(char[] v, int i) {
+        if(i == v.length)
+            return;
 
-        if(v[i] >= 'a' && v[i] <= 'z') v[i] += 'A' - 'a';
-        // ...
+        if(v[i] >= 'a' && v[i] <= 'z')
+            v[i] -= 32;
+
+        toUpper(v, i + 1);
+
     }
 }

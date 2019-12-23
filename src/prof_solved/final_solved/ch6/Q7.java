@@ -6,7 +6,8 @@ public class Q7 {
         System.out.println(sum(n, 0));
     }
     private static int sum(int[] n, int i) {
-        if(i==n.length-1) return n[i];
+//        if(i==n.length-1) return n[i];
+        if(i == n.length) return  0;
         return n[i]+sum(n,i+1);
     }
 }

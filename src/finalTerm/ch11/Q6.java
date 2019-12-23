@@ -21,7 +21,8 @@ public class Q6 {
     private static void dfs(LinkedList<Integer>[] adjList, int V, int[] groups, int v, int label) {
         groups[v]=label;
         for (Integer w : adjList[v]) {
-            if(groups[w]==0) dfs(adjList, V, groups, w, label);
+            if(groups[w]==0)
+                dfs(adjList, V, groups, w, label);
         }
     }
 }

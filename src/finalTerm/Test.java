@@ -5,29 +5,29 @@ import java.util.Random;
 
 public class Test {
     public static void main(String[] args) {
-        int v[]=new int[1000000];
         Random random=new Random();
-        for (int i = 0; i < v.length; i++)
-            v[i]=random.nextInt(1000000);
-        int key=1234;
-        System.out.println(search(v, key));
-    }
+        int N=10000;
+        int n[]=new int[N];
 
-    private static int search(int[] v, int key) {
-        int i = 0;
-        int lastVal = v[v.length - 1];
-        v[v.length - 1] = key;
+        for (int i = 0; i < n.length; i++)
+            n[i]=random.nextInt(N/2);
 
-        while(v[i] != key)
-            i++;
+        int count = 0, maxCount = 0, maxValue = n[0];
 
-        if(i < v.length - 1)
-            return i;
+        for(int i = 0; i < n.length; i++)	{
+            count = 0;
+            for(int j = i + 1; j < n.length; j++)	{
+                if(n[i] == n[j])
+                    count++;
+            }
+            if(count > maxCount)	{
+                maxCount = count;
+                maxValue = n[i];
+            }
+        }
 
-        if(lastVal == key)
-            return v.length - 1;
+        System.out.println(maxValue + ", " + maxCount);
 
-        return -1;
 
     }
 }

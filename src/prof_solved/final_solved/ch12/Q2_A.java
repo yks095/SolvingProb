@@ -49,7 +49,7 @@ class UF {
         while(i!=parent[i]){
             int     k=parent[i];
             parent[i]=root;
-            i=k;
+            i=k;                    // i = k 잘보기
         }
         return root;
     }
