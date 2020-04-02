@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class Q19_B {
     public static void main(String[] args) {
-        int price[] = {100, 90, 80, 70, 85, 95, 110, 120};
+        int price[] = {100, 90, 80, 70, 85, 95, 110, 120, 1};
         int span[] = new int[price.length];
 
         Stack<Integer> stack = new Stack<>();
